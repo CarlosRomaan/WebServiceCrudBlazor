@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceCrudBlazor", "WebServiceCrudBlazor\WebServiceCrudBlazor.csproj", "{E61BED1C-7126-4A7F-97D7-6185ADA700F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E61BED1C-7126-4A7F-97D7-6185ADA700F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61BED1C-7126-4A7F-97D7-6185ADA700F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61BED1C-7126-4A7F-97D7-6185ADA700F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61BED1C-7126-4A7F-97D7-6185ADA700F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A071C54D-14FD-4E9F-9D50-49158446C03F}
+	EndGlobalSection
+EndGlobal
